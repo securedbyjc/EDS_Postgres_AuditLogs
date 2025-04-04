@@ -1,4 +1,4 @@
-# EDS PostgreSQL Audit Log Simulation
+# 🦅 EDS PostgreSQL Audit Log Simulation
 
 This project simulates a lightweight audit log database used in a cybersecurity GRC platform for Eagle Defense Systems (EDS). Built with PostgreSQL and used for query optimization, reporting, and real-time threat analysis.
 
