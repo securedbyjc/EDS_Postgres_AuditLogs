@@ -6,6 +6,11 @@ This project simulates a lightweight audit log database used in a cybersecurity 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
+## Next Steps
+
+- Add a `users` table and simulate multi-user access behavior
+- Create a Python CLI to query or insert into `audit_logs`
+- Integrate with a future SwiftEagle dashboard or GRC UI
 
 ## Files
 - `schema.sql` - Table structure for the `audit_logs` table
